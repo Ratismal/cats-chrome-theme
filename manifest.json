@@ -1,0 +1,100 @@
+{
+  "version": "1.0",
+  "name": "cats-chrome-theme",
+  "manifest_version": 2,
+  "theme": {
+    "colors": {
+      "frame": [
+        49,
+        31,
+        99
+      ],
+      "frame_inactive": [
+        40,
+        25,
+        83
+      ],
+      "frame_incognito": [
+        16,
+        8,
+        37
+      ],
+      "frame_incognito_inactive": [
+        6,
+        4,
+        13
+      ],
+      "toolbar": [
+        36,
+        21,
+        75
+      ],
+      "tab_text": [
+        254,
+        254,
+        254
+      ],
+      "tab_background_text": [
+        211,
+        211,
+        211
+      ],
+      "bookmark_text": [
+        254,
+        254,
+        254
+      ],
+      "ntp_background": [
+        27,
+        17,
+        55
+      ],
+      "ntp_text": [
+        254,
+        254,
+        254
+      ],
+      "ntp_link": [
+        254,
+        254,
+        254
+      ],
+      "ntp_link_underline": [
+        254,
+        254,
+        254
+      ],
+      "ntp_header": [
+        0,
+        225,
+        255
+      ],
+      "ntp_section": [
+        36,
+        21,
+        75
+      ],
+      "ntp_section_text": [
+        245,
+        255,
+        0
+      ],
+      "ntp_section_link": [
+        0,
+        255,
+        15
+      ],
+      "ntp_section_link_underline": [
+        254,
+        254,
+        254
+      ],
+      "control_background": [
+        36,
+        21,
+        75
+      ]
+    },
+    "properties": {}
+  }
+}
